@@ -1,4 +1,4 @@
 # Choose Bike
 
 ### Live Link: 
-https://uttamsaha.github.io/choose-bike/
+https://uttamsaha.github.io/choose-bike
